@@ -1,7 +1,7 @@
 # 🎮 SG-PlayxFun - Sistema de Gestión para Local de VideoJuegos
 
 Este proyecto fue desarrollado en el marco de la **Tecnicatura Universitaria en Programación (UTN FRGP)**.  
-Se trata de una aplicación de consola desarrollada en **C++** que simula el sistema de gestión de un centro de entretenimiento (cibercafé / salón de videojuegos), aplicando los fundamentos de la **Programación Orientada a Objetos (POO)**.
+Se trata de una aplicación de consola desarrollada en **C++** que simula el sistema de gestión de un local de videojuegos, aplicando los fundamentos de la **Programación Orientada a Objetos (POO)**.
 
 ---
 
