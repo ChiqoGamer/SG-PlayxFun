@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1699528367 source:c:\users\joel_\onedrive\escritorio\playxfun\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"rlutil.h"
+	"Fecha.h"
+	"Proveedor.h"
+	"archivoProveedores.h"
+	"Videojuego.h"
+	"archivoVideojuegos.h"
+	"Empleado.h"
+	"archivoEmpleados.h"
+	"Ventas.h"
+	"archivoVentas.h"
+	"reportes.h"
+	"funciones.h"
+
+1571584339 c:\users\joel_\onedrive\escritorio\playxfun\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699531810 c:\users\joel_\onedrive\escritorio\playxfun\funciones.h
+
+1699070749 c:\users\joel_\onedrive\escritorio\playxfun\fecha.h
+
+1699078378 c:\users\joel_\onedrive\escritorio\playxfun\videojuego.h
+
+1699531481 c:\users\joel_\onedrive\escritorio\playxfun\archivovideojuegos.h
+
+1699074081 c:\users\joel_\onedrive\escritorio\playxfun\proveedor.h
+
+1699073547 c:\users\joel_\onedrive\escritorio\playxfun\archivoproveedores.h
+
+1699072691 c:\users\joel_\onedrive\escritorio\playxfun\empleado.h
+
+1699072691 c:\users\joel_\onedrive\escritorio\playxfun\archivoempleados.h
+
+1699532618 c:\users\joel_\onedrive\escritorio\playxfun\ventas.h
+
+1699075490 c:\users\joel_\onedrive\escritorio\playxfun\archivoventas.h
+
+1699039437 c:\users\joel_\onedrive\escritorio\playxfun\reportes.h
+
+1699528367 source:d:\joel\utn facultad\viejo\lab ii\playxfun\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"rlutil.h"
+	"Fecha.h"
+	"Proveedor.h"
+	"archivoProveedores.h"
+	"Videojuego.h"
+	"archivoVideojuegos.h"
+	"Empleado.h"
+	"archivoEmpleados.h"
+	"Ventas.h"
+	"archivoVentas.h"
+	"reportes.h"
+	"funciones.h"
+
+1571584339 d:\joel\utn facultad\viejo\lab ii\playxfun\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1699070749 d:\joel\utn facultad\viejo\lab ii\playxfun\fecha.h
+
+1699074081 d:\joel\utn facultad\viejo\lab ii\playxfun\proveedor.h
+
+1699073547 d:\joel\utn facultad\viejo\lab ii\playxfun\archivoproveedores.h
+
+1699078378 d:\joel\utn facultad\viejo\lab ii\playxfun\videojuego.h
+
+1699531481 d:\joel\utn facultad\viejo\lab ii\playxfun\archivovideojuegos.h
+
+1699072691 d:\joel\utn facultad\viejo\lab ii\playxfun\empleado.h
+
+1699072691 d:\joel\utn facultad\viejo\lab ii\playxfun\archivoempleados.h
+
+1699532618 d:\joel\utn facultad\viejo\lab ii\playxfun\ventas.h
+
+1699075490 d:\joel\utn facultad\viejo\lab ii\playxfun\archivoventas.h
+
+1699039437 d:\joel\utn facultad\viejo\lab ii\playxfun\reportes.h
+
+1699531810 d:\joel\utn facultad\viejo\lab ii\playxfun\funciones.h
+
